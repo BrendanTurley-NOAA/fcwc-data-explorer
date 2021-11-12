@@ -1,0 +1,13 @@
+name: fcwc-data-explorer
+title: fcwc-data-explorer
+username:
+account: oceandata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5113667
+bundleId: 5245587
+url: https://oceandata.shinyapps.io/fcwc-data-explorer/
+when: 1636750509.71889
+lastSyncTime: 1636750509.7189
+asMultiple: FALSE
+asStatic: FALSE
